@@ -7,7 +7,7 @@
       sm="12"
       md="12"
       lg="9"
-      class="pa-3"
+      class="pa-0"
       >
         <v-sheet style="background-color:#FFF8E1" height="100%" class="pa-3">
           <RichText ref="htmlContent" :content="data.content"/>
@@ -17,7 +17,7 @@
       sm="12"
       md="12"
       lg="3"
-      class="pa-3"
+      class="pa-0"
       >
         <v-sheet>
           <v-sheet style="background-color:#FFF8E1" height="700px" class="pa-3">
