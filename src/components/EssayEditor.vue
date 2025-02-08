@@ -6,7 +6,7 @@
       <v-col
       md="12"
       lg="9"
-      class="pa-0"
+      class="pa-3"
       >
         <v-sheet style="background-color:#FFF8E1" height="100%" class="pa-3">
           <RichText ref="htmlContent" :content="data.content"/>
@@ -15,7 +15,7 @@
       <v-col
       md="12"
       lg="3"
-      class="pa-0"
+      class="pa-3"
       >
         <v-sheet>
           <v-sheet style="background-color:#FFF8E1" height="700px" class="pa-3">
