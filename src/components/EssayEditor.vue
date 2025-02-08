@@ -4,7 +4,6 @@
     
     <v-row no-gutters>
       <v-col
-      sm="12"
       md="12"
       lg="9"
       class="pa-0"
@@ -14,7 +13,6 @@
         </v-sheet>
       </v-col>
       <v-col
-      sm="12"
       md="12"
       lg="3"
       class="pa-0"
