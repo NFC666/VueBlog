@@ -4,6 +4,7 @@ import { useUserStore } from "@/store/user.js";
 import router from "@/router/index.js";
 const api = axios.create({
     baseURL:'https://39.105.1.152/api',//修改了此处的代码
+
     timeout:5000,
     headers:{
         "Content-Type":"application/json"
