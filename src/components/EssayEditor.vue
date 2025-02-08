@@ -2,7 +2,7 @@
 <template>
   <div>
     
-    <v-row no-gutters>
+    <v-row>
       <v-col
       md="12"
       lg="9"
